@@ -1,6 +1,6 @@
 ## Personal Portfolio
 
-![Portfolio Website](https://i.ibb.co/TbJTHbk/3.png)
+![Portfolio Website](https:)
 
 This is my [`portfolio`](https://ayeman-b-salauddin.vercel.app/) project bootstrapped with Next.js
 
